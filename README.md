@@ -1,0 +1,1 @@
+# INF312_paper2_majorandearning
